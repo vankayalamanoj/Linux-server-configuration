@@ -8,7 +8,7 @@ Server IP Address 35.154.97.148
 Hosted site Url [http://35.154.97.148.xip.io/](http://35.154.97.148.xip.io/)
 
 ### How to connect as grader:
-  save private key provided in your local machine and run the following command
+  save private key provided in your local machine and run the following command using port 2200
   ```
   ssh -i path/to/privatekey -p 2200 grader@35.154.97.148
     
