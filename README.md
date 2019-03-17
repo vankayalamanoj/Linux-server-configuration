@@ -1,6 +1,6 @@
 # Linux-server-configuration
 ### About
-  This is the Udacity project 5 about the Configuring the Linux the server.
+  This is the Udacity project 5 about the Configuring the Linux server.
 
 ### Server Details
 Server IP Address 35.154.97.148
